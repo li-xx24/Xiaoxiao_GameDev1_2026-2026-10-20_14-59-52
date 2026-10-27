@@ -24,17 +24,17 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 5666dd6ef918e7a4eb8da3ae413a3ed5, type: 3}
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _DepthFade: 4
-    - _FlowSpeed: 0.05
-    - _Refraction: 0.04
+    - _FlowSpeed: 0.3
+    - _Refraction: 0.129
     - _RippleSize: 1.5
-    - _RippleStrength: 0.7
-    - _Smoothness: 0.95
+    - _RippleStrength: 2
+    - _Smoothness: 1
     m_Colors:
     - _DeepColor: {r: 0.015, g: 0.09, b: 0.1, a: 1}
     - _ShallowColor: {r: 0.8, g: 0.95, b: 0.93, a: 1}

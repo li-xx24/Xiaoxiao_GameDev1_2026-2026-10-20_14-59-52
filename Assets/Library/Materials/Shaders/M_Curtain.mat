@@ -30,10 +30,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _Smoothness: 0.25
-    - _Transmission: 1.5
-    - _WaveHeight: 0.09
+    - _Transmission: 1.99
+    - _WaveHeight: 0.18
     - _WaveLength: 0.6
-    - _WaveSpeed: 0.5
+    - _WaveSpeed: 0.2
     m_Colors:
     - _BaseColor: {r: 0.75, g: 0.12, b: 0.1, a: 1}
   m_BuildTextureStacks: []

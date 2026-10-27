@@ -28,7 +28,7 @@ Material:
     - _DarkRooms: 0.03
     - _Frame: 0.06
     - _LitRooms: 0.7
-    - _RoomDepth: 5
+    - _RoomDepth: 13.12
     - _Seed: 0
     - _Smoothness: 0.92
     m_Colors:
